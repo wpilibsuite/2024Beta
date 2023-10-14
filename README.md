@@ -6,4 +6,5 @@ Repository for Beta Testing of 2024 Software
 Note that all updated documentation for 2024 changes, new features, etc. can be found on the 'latest' version of the WPILib Docs site: https://docs.wpilib.org/en/latest/ Documentation regarding the Beta Test can be found at the top of the NavBar on the left side of that page.
 
 ## Beta Software Directory
-No software yet available
+
+* [WPILib 2024.1.1-beta-1](https://github.com/wpilibsuite/allwpilib/releases/tag/v2024.1.1-beta-1)
