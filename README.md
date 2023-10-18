@@ -9,3 +9,8 @@ Note that all updated documentation for 2024 changes, new features, etc. can be 
 
 * [WPILib 2024.1.1-beta-1](https://github.com/wpilibsuite/allwpilib/releases/tag/v2024.1.1-beta-1)
 * [NI 2024 Beta Release 1](https://github.com/wpilibsuite/2024Beta/releases/tag/ni-beta-1)
+
+NavX 2024 Beta Online Install (v2024.0.1-beta-2)
+```
+https://dev.studica.com/releases/2024/NavX.json
+```
