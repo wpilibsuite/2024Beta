@@ -13,7 +13,7 @@ Note that all updated documentation for 2024 changes, new features, etc. can be 
 * [WPILib 2024.1.1-beta-3](https://github.com/wpilibsuite/allwpilib/releases/tag/v2024.1.1-beta-3)
 * [RobotPy 2024.0.0b3](https://robotpy.github.io/2023/11/05/robotpy-2024-beta-available/)
 ### Vendor Libraries
-* [CTRE Phoenix v24.0.0-beta-4](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/tag/v24.0.0-beta-4)
+* [CTRE Phoenix v24.0.0-beta-5](https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/tag/v24.0.0-beta-5)
 * NavX 2024 Beta Online Install (v2024.0.1-beta-3)
   ```
   https://dev.studica.com/releases/2024/NavX.json
