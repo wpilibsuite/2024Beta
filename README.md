@@ -18,4 +18,4 @@ Note that all updated documentation for 2024 changes, new features, etc. can be 
   ```
   https://dev.studica.com/releases/2024/NavX.json
   ```
-* [REVLib v2024.0.0 Beta Release](https://github.com/REVrobotics/REV-Software-Binaries/releases/tag/revlib-2024.0.0)
+* [REVLib v2024.1.1 Beta Release](https://github.com/REVrobotics/REV-Software-Binaries/releases/tag/revlib-2024.1.1)
